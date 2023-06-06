@@ -1,7 +1,7 @@
 frontend/.DS_Store
 frontend/node_modules
-backend//node_modules
-frontend//dist
+backend/node_modules
+frontend/dist
 
 
 # local env files
