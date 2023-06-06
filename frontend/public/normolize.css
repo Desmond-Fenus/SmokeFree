@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    
+}
+
+body {
+    margin: 0;
+    font-family: monospace;
+
+      background: linear-gradient(
+    141deg,
+    rgba(232, 251, 113, 1) 0%,
+    rgba(176, 242, 109, 1) 100%
+  );
+}
+
+p {
+  margin: 0;
+}
